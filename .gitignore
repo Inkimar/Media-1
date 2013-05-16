@@ -4,3 +4,5 @@
 *.jar
 *.war
 *.ear
+/mvn-mediaserver-test/target/
+/mvn-mediaserver-testEJB/target/
